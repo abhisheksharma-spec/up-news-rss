@@ -12,7 +12,6 @@ jobs:
 update-rss:
 runs-on: ubuntu-latest
 
-```
 steps:
   - name: Checkout Repo
     uses: actions/checkout@v4
