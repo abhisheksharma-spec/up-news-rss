@@ -2,7 +2,7 @@ name: Update RSS Feeds
 
 on:
   schedule:
-  - cron: '*/15 * * * *'
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,15 +13,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: Setup python
         uses: actions/setup-python@v5
         with:
-        python-version: '3.12'
+          python-version: "3.12"
 
-      - name: Install Dependencies
+      - name: Install dependencies
         run: |
           pip install requests beautifulsoup4 lxml python-dateutil
 
@@ -29,11 +29,11 @@ jobs:
         run: |
           python generate_rss.py "https://www.jagran.com/uttar-pradesh" -o jagran.xml
 
-      -  name: Generate Bhaskar RSS
+      - name: Generate Bhaskar RSS
         run: |
           python generate_rss.py "https://www.bhaskar.com/local/uttar-pradesh/" -o bhaskar.xml
 
-      - name: Commit Changes
+      - name: Commit changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
