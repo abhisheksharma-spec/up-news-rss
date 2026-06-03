@@ -1,1 +1,16 @@
+name: Update RSS Feeds
+
+on:
+workflow_dispatch:
+
+jobs:
+update-rss:
+runs-on: ubuntu-latest
+
+steps:
+  - name: Checkout Repo
+    uses: actions/checkout@v4
+
+  - name: Verify
+    run: echo "Workflow is working"
 
