@@ -1,4 +1,3 @@
-%%writefile generate_rss.py
 import argparse
 import html
 import re
