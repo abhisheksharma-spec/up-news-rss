@@ -5,18 +5,12 @@
     <link>https://www.jagran.com/uttar-pradesh</link>
     <description>UP News In Hindi, Latest UP News, Uttar Pradesh Samachar, UP breaking news, UP crime News, Education, UP Weather Update उत्तर प्रदेश की ताजा खबरें, पॉलिटिकल चुनाव की खबरों से सम्बंधित सभी समाचार jagran.com पर.</description>
     <language>hi-IN</language>
-    <lastBuildDate>Thu, 23 Jul 2026 18:38:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 20:00:35 +0000</lastBuildDate>
     <item>
       <title>सब्सक्राइब करें</title>
       <link>https://www.jagran.com/subscription/plan?utm_login=header_subscription_btn</link>
       <guid>https://www.jagran.com/subscription/plan?utm_login=header_subscription_btn</guid>
       <description>सब्सक्राइब करें</description>
-    </item>
-    <item>
-      <title>Ind vs Zim - Watch Live</title>
-      <link>https://www.jagran.com/sports-watch/cricket</link>
-      <guid>https://www.jagran.com/sports-watch/cricket</guid>
-      <description>Ind vs Zim - Watch Live</description>
     </item>
     <item>
       <title>मिडिल ईस्ट संकट</title>
@@ -25,10 +19,22 @@
       <description>मिडिल ईस्ट संकट</description>
     </item>
     <item>
+      <title>स्पोर्ट्स मैच देखें</title>
+      <link>https://www.jagran.com/sports-watch/cricket</link>
+      <guid>https://www.jagran.com/sports-watch/cricket</guid>
+      <description>स्पोर्ट्स मैच देखें</description>
+    </item>
+    <item>
       <title>गौतम बुद्ध नगर/नोएडा</title>
       <link>https://www.jagran.com/uttar-pradesh/noida</link>
       <guid>https://www.jagran.com/uttar-pradesh/noida</guid>
       <description>गौतम बुद्ध नगर/नोएडा</description>
+    </item>
+    <item>
+      <title>जाजमऊ के नए गंगा पुल से जुड़ेगा लखनऊ-कानपुर एक्सप्रेसवे, गडकरी ने सर्वे और DPR के दिए निर्देश</title>
+      <link>https://www.jagran.com/uttar-pradesh/kanpur-city-new-ganga-bridge-in-jajmau-to-connect-with-lucknow-kanpur-expressway-nitin-gadkari-directs-survey-40317033.html?utm_source=landing_listing_page&amp;utm_medium=side_widget&amp;utm_campaign=trending_news</link>
+      <guid>https://www.jagran.com/uttar-pradesh/kanpur-city-new-ganga-bridge-in-jajmau-to-connect-with-lucknow-kanpur-expressway-nitin-gadkari-directs-survey-40317033.html?utm_source=landing_listing_page&amp;utm_medium=side_widget&amp;utm_campaign=trending_news</guid>
+      <description>जाजमऊ के नए गंगा पुल से जुड़ेगा लखनऊ-कानपुर एक्सप्रेसवे, गडकरी ने सर्वे और DPR के दिए निर्देश</description>
     </item>
     <item>
       <title>बल‍िया में वीडियो को ज्यादा लाइक्स मिलने और फेमस होने के लिए की थी ट्रेनों में तोड़फोड</title>
@@ -65,12 +71,6 @@
       <link>https://www.jagran.com/uttar-pradesh/kanpur-city-banking-app-apk-file-sold-to-jamtara-gang-accused-arrested-from-kanpur-hotel-40315678.html?utm_source=landing_listing_page&amp;utm_medium=side_widget&amp;utm_campaign=trending_news</link>
       <guid>https://www.jagran.com/uttar-pradesh/kanpur-city-banking-app-apk-file-sold-to-jamtara-gang-accused-arrested-from-kanpur-hotel-40315678.html?utm_source=landing_listing_page&amp;utm_medium=side_widget&amp;utm_campaign=trending_news</guid>
       <description>बैंकिंग एप की APK बनाकर जामताड़ा गैंग को बेचता था 11वीं पास युवक, सूरत पुलिस ने कानपुर से किया गिरफ्तार</description>
-    </item>
-    <item>
-      <title>चित्रकूट के देवांगना घाटी में युवती से दरिंदगी, प्रेमी को बंधक बनाकर 3 युवकों ने किया गैंगरेप</title>
-      <link>https://www.jagran.com/uttar-pradesh/chitrakoot-brutal-assault-in-chitrakoot-devangana-valley-three-men-gang-raped-young-woman-40315638.html?utm_source=landing_listing_page&amp;utm_medium=side_widget&amp;utm_campaign=trending_news</link>
-      <guid>https://www.jagran.com/uttar-pradesh/chitrakoot-brutal-assault-in-chitrakoot-devangana-valley-three-men-gang-raped-young-woman-40315638.html?utm_source=landing_listing_page&amp;utm_medium=side_widget&amp;utm_campaign=trending_news</guid>
-      <description>चित्रकूट के देवांगना घाटी में युवती से दरिंदगी, प्रेमी को बंधक बनाकर 3 युवकों ने किया गैंगरेप</description>
     </item>
     <item>
       <title>'अहंकार में सरकार चला रही भाजपा', अखिलेश बोले- केंद्र और राज्य के बीच चल रही पेपर लीक कराने की प्रतियोगिता</title>
@@ -145,6 +145,24 @@
       <description>विचार: फिर असहाय-निरुपाय दिखी दिल्ली</description>
     </item>
     <item>
+      <title>जाजमऊ के नए गंगा पुल से जुड़ेगा लखनऊ-कानपुर एक्सप्रेसवे, गडकरी ने सर्वे और DPR के दिए निर्देश</title>
+      <link>https://www.jagran.com/uttar-pradesh/kanpur-city-new-ganga-bridge-in-jajmau-to-connect-with-lucknow-kanpur-expressway-nitin-gadkari-directs-survey-40317033.html</link>
+      <guid>https://www.jagran.com/uttar-pradesh/kanpur-city-new-ganga-bridge-in-jajmau-to-connect-with-lucknow-kanpur-expressway-nitin-gadkari-directs-survey-40317033.html</guid>
+      <description>जाजमऊ के नए गंगा पुल से जुड़ेगा लखनऊ-कानपुर एक्सप्रेसवे, गडकरी ने सर्वे और DPR के दिए निर्देश</description>
+    </item>
+    <item>
+      <title>छात्रों के समर्थन में कानपुर में सपा-कांग्रेस का प्रदर्शन, नेताओं को घर में किया गया नजरबंद</title>
+      <link>https://www.jagran.com/uttar-pradesh/kanpur-city-kanpur-sp-congress-leaders-protest-for-delhi-students-house-arrest-40316907.html</link>
+      <guid>https://www.jagran.com/uttar-pradesh/kanpur-city-kanpur-sp-congress-leaders-protest-for-delhi-students-house-arrest-40316907.html</guid>
+      <description>छात्रों के समर्थन में कानपुर में सपा-कांग्रेस का प्रदर्शन, नेताओं को घर में किया गया नजरबंद</description>
+    </item>
+    <item>
+      <title>शरीर पर बनवाया टैटू तो सरकारी नौकरी का सपना रह जाएगा अधूरा? देखें क्या हैं नियम</title>
+      <link>https://www.jagran.com/uttar-pradesh/kanpur-city-tattoos-block-ncc-military-entry-in-up-know-rules-40317005.html</link>
+      <guid>https://www.jagran.com/uttar-pradesh/kanpur-city-tattoos-block-ncc-military-entry-in-up-know-rules-40317005.html</guid>
+      <description>शरीर पर बनवाया टैटू तो सरकारी नौकरी का सपना रह जाएगा अधूरा? देखें क्या हैं नियम</description>
+    </item>
+    <item>
       <title>कानपुर के अस्पतालों में शुक्रवार 24 जुलाई को कौन से डॉक्टर उपलब्ध हैं, जानें ओपीडी का पूरा शेड्यूल</title>
       <link>https://www.jagran.com/uttar-pradesh/kanpur-city-kanpur-opd-doctors-list-for-friday-gsvm-ursula-heart-institute-40316869.html</link>
       <guid>https://www.jagran.com/uttar-pradesh/kanpur-city-kanpur-opd-doctors-list-for-friday-gsvm-ursula-heart-institute-40316869.html</guid>
@@ -155,24 +173,6 @@
       <link>https://www.jagran.com/uttar-pradesh/kanpur-city-kanpur-mandi-bhav-today-23-july-2026-gold-silver-wheat-price-40316867.html</link>
       <guid>https://www.jagran.com/uttar-pradesh/kanpur-city-kanpur-mandi-bhav-today-23-july-2026-gold-silver-wheat-price-40316867.html</guid>
       <description>Kanpur Mandi Bhav Today: गेहूं से सोना तक के देखें ताजा रेट, 23 जुलाई का कानपुर मंडी भाव</description>
-    </item>
-    <item>
-      <title>Ghatampur MLA Report Card:चीनी मिल, ट्रामा सेंटर समेत बड़े वादों का पूरा हिसाब, जानिए विधायक सरोज कुरील का रिपोर्ट कार्ड</title>
-      <link>https://www.jagran.com/uttar-pradesh/kanpur-city-ghatampur-mla-saroj-kureel-report-card-sugar-mill-to-trauma-centre-major-promises-still-unfulfilled-40316580.html</link>
-      <guid>https://www.jagran.com/uttar-pradesh/kanpur-city-ghatampur-mla-saroj-kureel-report-card-sugar-mill-to-trauma-centre-major-promises-still-unfulfilled-40316580.html</guid>
-      <description>Ghatampur MLA Report Card:चीनी मिल, ट्रामा सेंटर समेत बड़े वादों का पूरा हिसाब, जानिए विधायक सरोज कुरील का रिपोर्ट कार्ड</description>
-    </item>
-    <item>
-      <title>कानपुर में प्रदूषण विभाग का छापा, दद्दा जी इंटरप्राइजेज से 5 टन सिंगल-यूज प्लास्टिक बरामद; मशीनें सील</title>
-      <link>https://www.jagran.com/uttar-pradesh/kanpur-city-kanpur-factory-sealed-5-tons-singleuse-plastic-seized-40316638.html</link>
-      <guid>https://www.jagran.com/uttar-pradesh/kanpur-city-kanpur-factory-sealed-5-tons-singleuse-plastic-seized-40316638.html</guid>
-      <description>कानपुर में प्रदूषण विभाग का छापा, दद्दा जी इंटरप्राइजेज से 5 टन सिंगल-यूज प्लास्टिक बरामद; मशीनें सील</description>
-    </item>
-    <item>
-      <title>UPCA Speed Hunt: 75 तेज गेंदबाजों की तलाश, विशेष कैंप में रफ्तार को धार देगा यूपीसीए</title>
-      <link>https://www.jagran.com/uttar-pradesh/kanpur-city-upca-speed-hunt-75-fast-bowlers-to-be-identified-and-trained-in-special-camp-40316411.html</link>
-      <guid>https://www.jagran.com/uttar-pradesh/kanpur-city-upca-speed-hunt-75-fast-bowlers-to-be-identified-and-trained-in-special-camp-40316411.html</guid>
-      <description>UPCA Speed Hunt: 75 तेज गेंदबाजों की तलाश, विशेष कैंप में रफ्तार को धार देगा यूपीसीए</description>
     </item>
     <item>
       <title>गोरखपुर के सरकारी स्कूलों में दी जाएगी AI पढ़ाने की तैयारी, IIIT लखनऊ में होगी ट्रेनिंग</title>
