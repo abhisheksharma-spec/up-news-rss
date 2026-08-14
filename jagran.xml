@@ -5,7 +5,7 @@
     <link>https://www.jagran.com/uttar-pradesh</link>
     <description>UP News In Hindi, Latest UP News, Uttar Pradesh Samachar, UP breaking news, UP crime News, Education, UP Weather Update उत्तर प्रदेश की ताजा खबरें, पॉलिटिकल चुनाव की खबरों से सम्बंधित सभी समाचार jagran.com पर.</description>
     <language>hi-IN</language>
-    <lastBuildDate>Fri, 14 Aug 2026 15:35:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 16:34:53 +0000</lastBuildDate>
     <item>
       <title>सब्सक्राइब करें</title>
       <link>https://www.jagran.com/subscription/plan?utm_source=header_subscription_btn</link>
@@ -23,6 +23,12 @@
       <link>https://www.jagran.com/uttar-pradesh/noida</link>
       <guid>https://www.jagran.com/uttar-pradesh/noida</guid>
       <description>गौतम बुद्ध नगर/नोएडा</description>
+    </item>
+    <item>
+      <title>साहब, बाथरूम जाना है... दीवान का हाथ झटककर कोर्ट परिसर से रफूचक्कर हुआ 65 किलो गांजे का तस्कर, बांदा पुलिस महकमे में हड़कंप</title>
+      <link>https://www.jagran.com/uttar-pradesh/banda-up-police-alert-drug-smuggler-escapes-court-premises-in-banda-40340857.html</link>
+      <guid>https://www.jagran.com/uttar-pradesh/banda-up-police-alert-drug-smuggler-escapes-court-premises-in-banda-40340857.html</guid>
+      <description>साहब, बाथरूम जाना है... दीवान का हाथ झटककर कोर्ट परिसर से रफूचक्कर हुआ 65 किलो गांजे का तस्कर, बांदा पुलिस महकमे में हड़कंप</description>
     </item>
     <item>
       <title>हमीरपुर में यमुना पुल से सीओ के स्टेनो ने लगाई छलांग, तेज बहाव में एक किमी दूर मछुआरों ने बचाई जान</title>
@@ -59,12 +65,6 @@
       <link>https://www.jagran.com/uttar-pradesh/kanpur-city-scam-in-kesco-crore-fraud-in-scrap-of-854-quintals-of-electrical-equipment-in-kanpur-40340467.html</link>
       <guid>https://www.jagran.com/uttar-pradesh/kanpur-city-scam-in-kesco-crore-fraud-in-scrap-of-854-quintals-of-electrical-equipment-in-kanpur-40340467.html</guid>
       <description>KESCO में बड़ा घोटाला, 854.56 क्विंटल बिजली उपकरण के स्क्रैप में 1.52 करोड़ की घपलेबाजी</description>
-    </item>
-    <item>
-      <title>नंगली किठौर ने रचा इतिहास: UP का तंबाकू मुक्त पहला गांव बना; अब मेरठ के 18 और गांव चले इसकी राह</title>
-      <link>https://www.jagran.com/uttar-pradesh/meerut-city-nangli-kithaur-ups-first-tobaccofree-village-inspires-18-more-40340396.html</link>
-      <guid>https://www.jagran.com/uttar-pradesh/meerut-city-nangli-kithaur-ups-first-tobaccofree-village-inspires-18-more-40340396.html</guid>
-      <description>नंगली किठौर ने रचा इतिहास: UP का तंबाकू मुक्त पहला गांव बना; अब मेरठ के 18 और गांव चले इसकी राह</description>
     </item>
     <item>
       <title>'प्रदेश में PDA पर शोषण की इंतेहा', अखिलेश ने योगी सरकार पर किया हमला; कानून व्यवस्था पर उठाए सवाल</title>
@@ -145,6 +145,18 @@
       <description>विचार: एक बड़ा उद्यम बना मिलावटखोरी</description>
     </item>
     <item>
+      <title>आज का कानपुर मंडी भाव 14 अगस्त: गेहूं, चावल, दाल और Gold-Silver Price</title>
+      <link>https://www.jagran.com/uttar-pradesh/kanpur-city-kanpur-mandi-bhav-today-friday-14-aug-2026-gold-silver-wheat-price-40340874.html</link>
+      <guid>https://www.jagran.com/uttar-pradesh/kanpur-city-kanpur-mandi-bhav-today-friday-14-aug-2026-gold-silver-wheat-price-40340874.html</guid>
+      <description>आज का कानपुर मंडी भाव 14 अगस्त: गेहूं, चावल, दाल और Gold-Silver Price</description>
+    </item>
+    <item>
+      <title>कानपुर में 15 अगस्त की मिठास में मिलावट, लड्डू के लिए बूंदी बनाने में मिलाया जा रहा चावल का आटा, 5 क्विंटल सीज</title>
+      <link>https://www.jagran.com/uttar-pradesh/kanpur-city-kanpur-food-safety-5-quintal-rice-flour-seized-in-ladoo-adulteration-40340788.html</link>
+      <guid>https://www.jagran.com/uttar-pradesh/kanpur-city-kanpur-food-safety-5-quintal-rice-flour-seized-in-ladoo-adulteration-40340788.html</guid>
+      <description>कानपुर में 15 अगस्त की मिठास में मिलावट, लड्डू के लिए बूंदी बनाने में मिलाया जा रहा चावल का आटा, 5 क्विंटल सीज</description>
+    </item>
+    <item>
       <title>किसानों को बड़ी राहत, खरीफ फसल बीमा के आवेदन की समय सीमा बढ़ी</title>
       <link>https://www.jagran.com/uttar-pradesh/kanpur-city-kharif-crop-insurance-deadline-extended-to-aug-31-for-indebted-farmers-40340558.html</link>
       <guid>https://www.jagran.com/uttar-pradesh/kanpur-city-kharif-crop-insurance-deadline-extended-to-aug-31-for-indebted-farmers-40340558.html</guid>
@@ -163,12 +175,6 @@
       <description>कानपुर में LPG ई-केवाईसी कराने का आखिरी मौका, 4.30 लाख घरेलू कनेक्शन हो सकते हैं बंद</description>
     </item>
     <item>
-      <title>दिव्यांग छात्राओं को योगी सरकार की बड़ी सौगात, मुफ्त ई-ट्राईसाइकिल मिलेगी; यहां करें आवेदन</title>
-      <link>https://www.jagran.com/uttar-pradesh/kanpur-city-etricycles-for-disabled-girl-students-education-by-yogi-government-40340419.html</link>
-      <guid>https://www.jagran.com/uttar-pradesh/kanpur-city-etricycles-for-disabled-girl-students-education-by-yogi-government-40340419.html</guid>
-      <description>दिव्यांग छात्राओं को योगी सरकार की बड़ी सौगात, मुफ्त ई-ट्राईसाइकिल मिलेगी; यहां करें आवेदन</description>
-    </item>
-    <item>
       <title>गोरखपुर विश्वविद्यालय में 93 प्रतिशत सीटों पर प्रवेश संपन्न, अब 19 अगस्त से स्पॉट काउंसिलिंग</title>
       <link>https://www.jagran.com/uttar-pradesh/gorakhpur-city-ddu-gorakhpur-university-93-percent-admissions-done-spot-counseling-soon-40340428.html</link>
       <guid>https://www.jagran.com/uttar-pradesh/gorakhpur-city-ddu-gorakhpur-university-93-percent-admissions-done-spot-counseling-soon-40340428.html</guid>
@@ -179,12 +185,6 @@
       <link>https://www.jagran.com/uttar-pradesh/gorakhpur-city-gorakhpur-administration-to-clear-45-enemy-properties-40340388.html</link>
       <guid>https://www.jagran.com/uttar-pradesh/gorakhpur-city-gorakhpur-administration-to-clear-45-enemy-properties-40340388.html</guid>
       <description>गोरखपुर में शत्रु संपत्तियों पर प्रशासन की बड़ी कार्रवाई, 21 एकड़ भूमि होगी कब्जामुक्त</description>
-    </item>
-    <item>
-      <title>Gorakhpur Weather Update: गोरखपुर में रहेगी बादलों की आवाजाही, जारी रहेगा वर्षा का सिलसिला</title>
-      <link>https://www.jagran.com/uttar-pradesh/gorakhpur-city-gorakhpur-rain-forecast-moderate-to-heavy-showers-expected-40340381.html</link>
-      <guid>https://www.jagran.com/uttar-pradesh/gorakhpur-city-gorakhpur-rain-forecast-moderate-to-heavy-showers-expected-40340381.html</guid>
-      <description>Gorakhpur Weather Update: गोरखपुर में रहेगी बादलों की आवाजाही, जारी रहेगा वर्षा का सिलसिला</description>
     </item>
   </channel>
 </rss>
