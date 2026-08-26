@@ -5,7 +5,7 @@
     <link>https://www.jagran.com/uttar-pradesh</link>
     <description>UP News In Hindi, Latest UP News, Uttar Pradesh Samachar, UP breaking news, UP crime News, Education, UP Weather Update उत्तर प्रदेश की ताजा खबरें, पॉलिटिकल चुनाव की खबरों से सम्बंधित सभी समाचार jagran.com पर.</description>
     <language>hi-IN</language>
-    <lastBuildDate>Wed, 26 Aug 2026 17:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 19:19:15 +0000</lastBuildDate>
     <item>
       <title>सब्सक्राइब करें</title>
       <link>https://www.jagran.com/subscription/plan?utm_source=header_subscription_btn</link>
@@ -23,6 +23,12 @@
       <link>https://www.jagran.com/uttar-pradesh/noida</link>
       <guid>https://www.jagran.com/uttar-pradesh/noida</guid>
       <description>गौतम बुद्ध नगर/नोएडा</description>
+    </item>
+    <item>
+      <title>UP Flood Alert: कानपुर, फर्रुखाबाद सहित 9 जिलों में उफान पर नदियां, मकान गंगा में समाए, 7 की मौत</title>
+      <link>https://www.jagran.com/uttar-pradesh/kanpur-city-up-alert-after-nepal-flash-flood-rivers-swell-in-9-districts-including-kanpur-farrukhabad-7-dead-40353484.html</link>
+      <guid>https://www.jagran.com/uttar-pradesh/kanpur-city-up-alert-after-nepal-flash-flood-rivers-swell-in-9-districts-including-kanpur-farrukhabad-7-dead-40353484.html</guid>
+      <description>UP Flood Alert: कानपुर, फर्रुखाबाद सहित 9 जिलों में उफान पर नदियां, मकान गंगा में समाए, 7 की मौत</description>
     </item>
     <item>
       <title>बांदा में बारावफात के जुलूस में पुलिस को मिला बांग्लादेशी युवक, UP Police Alert, 4 अन्य साथी चित्रकूट होटल में</title>
@@ -59,12 +65,6 @@
       <link>https://www.jagran.com/uttar-pradesh/unnao-lucknow-kanpur-expressway-25km-road-damaged-despite-heavy-vehicle-ban-40353134.html</link>
       <guid>https://www.jagran.com/uttar-pradesh/unnao-lucknow-kanpur-expressway-25km-road-damaged-despite-heavy-vehicle-ban-40353134.html</guid>
       <description>Lucknow–Kanpur Expressway की बदहाली, लखनऊ की लेन पर 22 दिन से नहीं दौड़े भारी वाहन, फिर भी 25 किमी में सड़क बनी नाली</description>
-    </item>
-    <item>
-      <title>फतेहपुर में मंत्री कृष्णा पासवान के सामने बिफरी महिलाएं, रक्षाबंधन गिफ्ट में भेदभाव पर हंगामा, मंच में साड़ी फेंक किया विरोध</title>
-      <link>https://www.jagran.com/uttar-pradesh/fatehpur-fatehpur-women-create-uproar-at-minister-krishna-paswan-event-over-saree-and-sweets-saree-thrown-on-stage-40353083.html</link>
-      <guid>https://www.jagran.com/uttar-pradesh/fatehpur-fatehpur-women-create-uproar-at-minister-krishna-paswan-event-over-saree-and-sweets-saree-thrown-on-stage-40353083.html</guid>
-      <description>फतेहपुर में मंत्री कृष्णा पासवान के सामने बिफरी महिलाएं, रक्षाबंधन गिफ्ट में भेदभाव पर हंगामा, मंच में साड़ी फेंक किया विरोध</description>
     </item>
     <item>
       <title>UP TET 2026 Result: प्राथमिक यूपीटीईटी में 80 व उच्च प्राथमिक में 71 प्रतिशत उत्तीर्ण, 77 प्रतिशत शिक्षक भी पास</title>
@@ -115,6 +115,18 @@
       <description>को Google न्यूज़ पर फॉलो करें Follow us</description>
     </item>
     <item>
+      <title>विचार: आकाश छूने को तैयार नई पीढ़ी</title>
+      <link>https://www.jagran.com/editorial/apnibaat-understanding-indias-genz-future-potential-bridging-the-gap-40353489.html</link>
+      <guid>https://www.jagran.com/editorial/apnibaat-understanding-indias-genz-future-potential-bridging-the-gap-40353489.html</guid>
+      <description>विचार: आकाश छूने को तैयार नई पीढ़ी</description>
+    </item>
+    <item>
+      <title>विचार: खतरनाक है वंदे मातरम् का विरोध</title>
+      <link>https://www.jagran.com/editorial/apnibaat-vande-mataram-opposition-a-dangerous-debate-on-national-symbols-40353483.html</link>
+      <guid>https://www.jagran.com/editorial/apnibaat-vande-mataram-opposition-a-dangerous-debate-on-national-symbols-40353483.html</guid>
+      <description>विचार: खतरनाक है वंदे मातरम् का विरोध</description>
+    </item>
+    <item>
       <title>विचार: हटाने नहीं, सुधारने की आवश्यकता</title>
       <link>https://www.jagran.com/editorial/apnibaat-reservation-debate-why-india-needs-quota-system-reform-40352200.html</link>
       <guid>https://www.jagran.com/editorial/apnibaat-reservation-debate-why-india-needs-quota-system-reform-40352200.html</guid>
@@ -133,28 +145,16 @@
       <description>विचार: विपक्ष का एकमात्र एजेंडा संसद ठप करना</description>
     </item>
     <item>
-      <title>विचार: एथनॉल नीति पर फिर से विचार हो</title>
-      <link>https://www.jagran.com/editorial/apnibaat-india-imports-sugar-amid-ethanol-policy-debate-price-hike-40351240.html</link>
-      <guid>https://www.jagran.com/editorial/apnibaat-india-imports-sugar-amid-ethanol-policy-debate-price-hike-40351240.html</guid>
-      <description>विचार: एथनॉल नीति पर फिर से विचार हो</description>
-    </item>
-    <item>
-      <title>विचार: दिमागी नक्सल पर व्यर्थ की बौखलाहट</title>
-      <link>https://www.jagran.com/editorial/apnibaat-dimagi-naxal-pm-modis-term-sparks-political-debate-in-india-news-in-hindi-40350192.html</link>
-      <guid>https://www.jagran.com/editorial/apnibaat-dimagi-naxal-pm-modis-term-sparks-political-debate-in-india-news-in-hindi-40350192.html</guid>
-      <description>विचार: दिमागी नक्सल पर व्यर्थ की बौखलाहट</description>
-    </item>
-    <item>
       <title>Train Update: नॉन-इंटरलॉकिंग कार्य से कानपुर सेंट्रल की ट्रेनें प्रभावित, वैशाली समेत छह के बदले मार्ग; चार आंशिक निरस्त</title>
       <link>https://www.jagran.com/uttar-pradesh/kanpur-city-indian-railways-update-train-routes-changed-and-services-partially-cancelled-kanpur-route-check-full-list-40353395.html</link>
       <guid>https://www.jagran.com/uttar-pradesh/kanpur-city-indian-railways-update-train-routes-changed-and-services-partially-cancelled-kanpur-route-check-full-list-40353395.html</guid>
       <description>Train Update: नॉन-इंटरलॉकिंग कार्य से कानपुर सेंट्रल की ट्रेनें प्रभावित, वैशाली समेत छह के बदले मार्ग; चार आंशिक निरस्त</description>
     </item>
     <item>
-      <title>आज का कानपुर मंडी भाव 26 अगस्त: गेहूं, चावल, दाल और Gold-Silver Price</title>
-      <link>https://www.jagran.com/uttar-pradesh/kanpur-city-kanpur-mandi-bhav-today-26-august-grains-pulses-gold-silver-prices-latest-bajar-bhav-40353294.html</link>
-      <guid>https://www.jagran.com/uttar-pradesh/kanpur-city-kanpur-mandi-bhav-today-26-august-grains-pulses-gold-silver-prices-latest-bajar-bhav-40353294.html</guid>
-      <description>आज का कानपुर मंडी भाव 26 अगस्त: गेहूं, चावल, दाल और Gold-Silver Price</description>
+      <title>27 अगस्त से गोरखपुर-दिल्ली और 28 अगस्त से मुंबई के लिए चलेगी अमृत भारत एक्सप्रेस, देखें रूट और टाइमिंग</title>
+      <link>https://www.jagran.com/uttar-pradesh/gorakhpur-city-gorakhpur-amrit-bharat-train-to-delhi-bandra-starts-aug-27-40353426.html</link>
+      <guid>https://www.jagran.com/uttar-pradesh/gorakhpur-city-gorakhpur-amrit-bharat-train-to-delhi-bandra-starts-aug-27-40353426.html</guid>
+      <description>27 अगस्त से गोरखपुर-दिल्ली और 28 अगस्त से मुंबई के लिए चलेगी अमृत भारत एक्सप्रेस, देखें रूट और टाइमिंग</description>
     </item>
     <item>
       <title>गोरखपुर में दृष्टिबाधित कॉलेज के हॉस्टल में संदिग्ध परिस्थितियों में मिला छात्र का शव, जांच में जुटी पुलिस</title>
@@ -181,10 +181,10 @@
       <description>पूर्वांचल में नेत्रदान की कमी, 900 से अधिक मरीज रोशनी के इंतजार में</description>
     </item>
     <item>
-      <title>गोरखपुर में प्रेमिका से मिलने गए युवक की पिटाई, रजाई के खोल में बांधकर नाले में फेंका</title>
-      <link>https://www.jagran.com/uttar-pradesh/gorakhpur-city-gorakhpur-man-found-tied-in-quilt-cover-in-canal-after-beating-40352824.html</link>
-      <guid>https://www.jagran.com/uttar-pradesh/gorakhpur-city-gorakhpur-man-found-tied-in-quilt-cover-in-canal-after-beating-40352824.html</guid>
-      <description>गोरखपुर में प्रेमिका से मिलने गए युवक की पिटाई, रजाई के खोल में बांधकर नाले में फेंका</description>
+      <title>अंबेडकरनगर ठेका विवाद: हाई कोर्ट ने कहा- शिकायतकर्ता को जानकारी न देना, प्राकृतिक न्याय के खिलाफ</title>
+      <link>https://www.jagran.com/uttar-pradesh/lucknow-city-high-court-awarding-contract-without-informing-complainant-unjust-40353480.html</link>
+      <guid>https://www.jagran.com/uttar-pradesh/lucknow-city-high-court-awarding-contract-without-informing-complainant-unjust-40353480.html</guid>
+      <description>अंबेडकरनगर ठेका विवाद: हाई कोर्ट ने कहा- शिकायतकर्ता को जानकारी न देना, प्राकृतिक न्याय के खिलाफ</description>
     </item>
   </channel>
 </rss>
