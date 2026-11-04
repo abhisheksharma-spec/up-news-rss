@@ -5,7 +5,7 @@
     <link>https://www.jagran.com/uttar-pradesh</link>
     <description>UP News In Hindi, Latest UP News, Uttar Pradesh Samachar, UP breaking news, UP crime News, Education, UP Weather Update उत्तर प्रदेश की ताजा खबरें, पॉलिटिकल चुनाव की खबरों से सम्बंधित सभी समाचार jagran.com पर.</description>
     <language>hi-IN</language>
-    <lastBuildDate>Wed, 04 Nov 2026 17:54:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 23:29:31 +0000</lastBuildDate>
     <item>
       <title>सब्सक्राइब करें</title>
       <link>https://www.jagran.com/subscription/plan?utm_source=header_subscription_btn</link>
@@ -133,6 +133,18 @@
       <description>को Google न्यूज़ पर फॉलो करें Follow us</description>
     </item>
     <item>
+      <title>विचार: खुद को कमजोर करने वाली राजनीति</title>
+      <link>https://www.jagran.com/editorial/apnibaat-congress-negative-politics-a-self-defeating-strategy-40427741.html</link>
+      <guid>https://www.jagran.com/editorial/apnibaat-congress-negative-politics-a-self-defeating-strategy-40427741.html</guid>
+      <description>विचार: खुद को कमजोर करने वाली राजनीति</description>
+    </item>
+    <item>
+      <title>विचार: कठिन हुई ट्रंप की राह</title>
+      <link>https://www.jagran.com/editorial/apnibaat-us-midterm-elections-trump-path-hardens-impact-on-india-40427737.html</link>
+      <guid>https://www.jagran.com/editorial/apnibaat-us-midterm-elections-trump-path-hardens-impact-on-india-40427737.html</guid>
+      <description>विचार: कठिन हुई ट्रंप की राह</description>
+    </item>
+    <item>
       <title>विचार: क्यों अटके पड़े हैं कुछ आवश्यक काम</title>
       <link>https://www.jagran.com/editorial/apnibaat-modi-cabinet-reshuffle-why-key-government-works-are-delayed-40426546.html</link>
       <guid>https://www.jagran.com/editorial/apnibaat-modi-cabinet-reshuffle-why-key-government-works-are-delayed-40426546.html</guid>
@@ -151,16 +163,10 @@
       <description>विचार: मुनाफाखोरी की गिरफ्त में मरीज</description>
     </item>
     <item>
-      <title>विचार: लोकतंत्र के नाम पर अलोकतांत्रिक आचरण</title>
-      <link>https://www.jagran.com/editorial/apnibaat-regime-change-is-opposition-threatening-indian-democracy-40425399.html</link>
-      <guid>https://www.jagran.com/editorial/apnibaat-regime-change-is-opposition-threatening-indian-democracy-40425399.html</guid>
-      <description>विचार: लोकतंत्र के नाम पर अलोकतांत्रिक आचरण</description>
-    </item>
-    <item>
-      <title>विचार: खत्म होना चाहिए शिक्षक स्नातक निर्वाचन क्षेत्र</title>
-      <link>https://www.jagran.com/editorial/apnibaat-abolish-teachergraduate-constituencies-an-expert-view-40424833.html</link>
-      <guid>https://www.jagran.com/editorial/apnibaat-abolish-teachergraduate-constituencies-an-expert-view-40424833.html</guid>
-      <description>विचार: खत्म होना चाहिए शिक्षक स्नातक निर्वाचन क्षेत्र</description>
+      <title>जौनपुर में पकड़े गए असलहा तस्करों का कानपुर कनेक्शन, गन हाउस संचालक गिरफ्तार, 34 माह में बिके 1234 असलहे और 4.87 लाख कारतूस</title>
+      <link>https://www.jagran.com/uttar-pradesh/kanpur-city-kanpur-gun-house-owner-arrested-in-arms-smuggling-racket-40427801.html</link>
+      <guid>https://www.jagran.com/uttar-pradesh/kanpur-city-kanpur-gun-house-owner-arrested-in-arms-smuggling-racket-40427801.html</guid>
+      <description>जौनपुर में पकड़े गए असलहा तस्करों का कानपुर कनेक्शन, गन हाउस संचालक गिरफ्तार, 34 माह में बिके 1234 असलहे और 4.87 लाख कारतूस</description>
     </item>
     <item>
       <title>मिलावटखोरों पर कार्रवाई, कानपुर में फिरोजाबाद और इटावा से लाया गया 2200 किलो खोवा नष्ट कराया</title>
@@ -179,12 +185,6 @@
       <link>https://www.jagran.com/uttar-pradesh/kanpur-city-kanpur-air-pollution-nehru-nagar-aqi-230-health-risks-rise-40427625.html</link>
       <guid>https://www.jagran.com/uttar-pradesh/kanpur-city-kanpur-air-pollution-nehru-nagar-aqi-230-health-risks-rise-40427625.html</guid>
       <description>कानपुर में बिगड़ी हवा की सेहत, नेहरू नगर में AQI 230 पहुंचा</description>
-    </item>
-    <item>
-      <title>जमीन विवाद में मुन्ना सिंह ने फिर की फायरिंग, 48 साल पहले भी कर चुका है हत्या</title>
-      <link>https://www.jagran.com/uttar-pradesh/kanpur-city-kanpur-land-dispute-munna-singh-past-murder-history-revealed-40427622.html</link>
-      <guid>https://www.jagran.com/uttar-pradesh/kanpur-city-kanpur-land-dispute-munna-singh-past-murder-history-revealed-40427622.html</guid>
-      <description>जमीन विवाद में मुन्ना सिंह ने फिर की फायरिंग, 48 साल पहले भी कर चुका है हत्या</description>
     </item>
   </channel>
 </rss>
